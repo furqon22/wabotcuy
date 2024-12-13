@@ -1,0 +1,22 @@
+-------------Aplikasi
+install nodejs
+install git
+-------------Terminal
+setx PATH "%PATH%;C:\Program Files\Git\bin"
+npm install -g npm
+npm init -y
+npm install
+npm install @whiskeysockets/baileys
+npm install @whiskeysockets/baileys@latest
+npm install qrcode-terminal
+
+--------end WA Bot Instalation
+-----------------------------------------------
+npm install --save groq-sdk
+npm install selenium
+npm install webdriver
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+pip install selenium
+pip install webdriver-manager
+
